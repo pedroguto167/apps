@@ -1,0 +1,32 @@
+{
+    "short_name": "Magic Slot",
+    "name": "Magic Slot VIP",
+    "author": "*",
+    "icons": [
+      {
+        "src": "https://jogorapido.site/wp-content/uploads/2023/07/LOGO-SLOT-1.webp",
+        "type": "image/png",
+        "sizes": "192x192",
+        "purpose": "any"
+      },
+      {
+        "src": "https://jogorapido.site/wp-content/uploads/2023/07/LOGO-SLOT-1.webp",
+        "type": "image/jpg",
+        "sizes": "512x512",
+        "purpose": "any"
+      }
+    ],
+    "start_url": "./index.html",
+    "background_color": "#000000",
+    "display": "standalone",
+    "theme_color": "rgb(18, 18, 20)",
+    "screenshots": [
+      {
+          "src": "https://jogorapido.site/wp-content/uploads/2023/07/LOGO-SLOT-1.webp",
+          "type": "image\/png"
+      }
+  ],
+  "categories": [
+    "games"
+]
+  }
